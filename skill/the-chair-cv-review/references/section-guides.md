@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.6 seconds
-Output:
 # 五个板块的诊断指南
 
 ## Education
