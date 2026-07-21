@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.6 seconds
-Output:
 # CV 定性诊断输出结构
 
 按用户语言输出。默认使用“先判断、后建议”的 Focused Review；只有用户明确要求时才使用 Full Audit。保持直接、具体，不给默认总分。
