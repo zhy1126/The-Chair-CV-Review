@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.9 seconds
-Output:
 # The Chair 的 CV 评价原则
 
 本文件提炼自 The 椅子的小红书帖子《五个步骤帮助你构建自己的CV（简历）》。它是本 Skill 的思想底座，而不是机械模板。
