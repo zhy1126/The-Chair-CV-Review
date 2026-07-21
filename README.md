@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.7 seconds
-Output:
 # The Chair｜CV 申请竞争力诊断
 
 一套面向留学申请 CV 的定性诊断 Skill。它不把 CV 简化成分数，也不直接替申请者重写整份简历，而是先判断一份 CV 已经证明了什么、真正受限于什么，再与使用者确认判断，最后提出修改建议。
