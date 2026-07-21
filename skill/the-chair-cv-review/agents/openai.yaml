@@ -1,0 +1,8 @@
+Exit code: 0
+Wall time: 1.7 seconds
+Output:
+interface:
+  display_name: "The Chair｜CV 申请竞争力诊断"
+  short_description: "平衡判断已成立证据与真实缺口，确认后再给修改方案"
+  default_prompt: "使用 $the-chair-cv-review 平衡诊断这份留学申请 CV；第一轮先说明已成立的证据，再区分局部缺口、维度问题和无法判断的项目契合，等我确认后再提出建议。"
+
