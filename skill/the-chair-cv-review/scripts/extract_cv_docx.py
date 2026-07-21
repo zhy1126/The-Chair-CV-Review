@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.9 seconds
-Output:
 #!/usr/bin/env python3
 """Extract CV text and review risks from a DOCX without external dependencies."""
 
