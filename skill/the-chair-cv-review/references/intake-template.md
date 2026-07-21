@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 2 seconds
-Output:
 # CV 诊断输入模板
 
 请尽量按以下格式提供。缺失信息可以标注“暂无”或“未知”。
