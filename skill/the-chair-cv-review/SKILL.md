@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.7 seconds
-Output:
 ---
 name: the-chair-cv-review
 description: Diagnose and guide revision of postgraduate study-abroad academic CVs and application resumes through a stage-calibrated, judgement-first, discussion-before-advice workflow. Use when a user asks to review, assess, self-check, improve, or restructure a 留学 CV、学术简历、申请简历, especially for taught master's, research master's, PhD, scholarship, or law-school applications. Evaluate positioning and selection, evidence and contribution, and credibility and readiness by balancing what already works against local, recurring, and structural gaps rather than assigning a default numerical score. Inspect Education, Publications and Conferences, Research Experience, Internships and Professional Experience, and Honors as evidence sections, but do not mechanically report every section in the default review. Never invent achievements, metrics, publications, roles, or outcomes, and do not silently replace the entire CV with a ghostwritten version.
